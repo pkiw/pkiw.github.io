@@ -6,9 +6,9 @@ main:
   #   url: "/_pages/contact/"
   # - title: "Collaborations"
   #   url: "/_pages/collaborations/"
-   - title: "Current implementations"
-     url: /sitemap/
-   - title: "Future plans"
-     url: /_pages/future/
+  # - title: "Current implementations"
+  #   url: /sitemap/
+  # - title: "Future plans"
+  #   url: /_pages/future/
    - title: "About me"
      url: /_pages/about/

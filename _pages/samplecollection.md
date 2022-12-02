@@ -13,7 +13,7 @@ td, tr {
 
 <table width="100%">
  <tr>
-    <td width="50%"><p style="font-size:22px">When collecting samples that will be analysed it is important to annotate the sample with as much information as possible. Point in time and location (place and depth) of the collected sample should be documented. Additionally, temperature (air and water) and weather conditions can be useful to note as well, though they to some extent can be collected retroactively from meteorological databases.</p>
+    <td width="50%"><p style="font-size:22px">When collecting samples that are to be analysed it is important to annotate the sample with as much information as possible. Point in time and location (place and depth) of the collected sample should be documented. Additionally, temperature (air and water) and weather conditions can be useful to note as well, though they to some extent can be collected retroactively from meteorological databases.</p>
 </td>
     <td width="50%"><img src="/assets/images/1b_cut.png" width="100%">
 </td>
@@ -34,8 +34,9 @@ When the purpose is to analyse and quantify the contents within the sample it is
 </tr>
 
 </table>
-
-Links and description to related solutions and protocols
+<strong>This webbpage, with all its contents, is to be considered under contruction and not a final product.</strong>
+<br>
+<strong>Links and descriptions to related solutions and protocols will continously be updated and made available.</strong>
 
 
 
