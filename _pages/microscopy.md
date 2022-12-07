@@ -24,7 +24,7 @@ td, tr {
 </tr>
 
  <tr>
-    <td><p style="font-size:22px">The surface area (4cm2) of the bottom of the sediment chamber (one sample) can be scanned in ~3h 30min using a snake pattern. This results in ~1000 images. With multiple microscope working in parallel it is then possibel to reach an high sample processing rate. With the potential to documented more images than what one person can analyse, it is important to evaluate the usefulness of <strong>AI-assisted identification and quantification</strong>. </p>
+    <td><p style="font-size:22px">The surface area (4cm2) of the bottom of the sediment chamber (one sample) can be scanned in ~3h 30min using a snake pattern. This results in ~1000 images. With multiple microscope working in parallel it is then possibel to reach a high sample processing rate. With the potential to documented more images than what one person can analyse, it is important to evaluate the usefulness of <strong>AI-assisted identification and quantification</strong>. </p>
 </td>
     <td><img src="/assets/images/2.3.PNG" width="100%">
 </td>
