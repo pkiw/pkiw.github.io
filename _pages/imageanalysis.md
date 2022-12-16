@@ -24,13 +24,13 @@ td, tr {
  <tr>
      <td><img src="/assets/images/3.2.PNG" width="100%">
 </td>
-    <td><p style="font-size:22px">Recent years advances in, and availability of, open-source libraries for machine learning (eg <a href="https://www.tensorflow.org/">TensorFlow</a> and <a href="https://opencv.org/">OpenCV</a>) has made development of object detection and classification models more accessible. Employing Ai to assist in the identification and quantification of microscopic organisms would then enable for the processing of large amounts of image.</p>
+    <td><p style="font-size:22px">Recent years advances in, and availability of, open-source libraries for machine learning (eg <a href="https://www.tensorflow.org/">TensorFlow</a> and <a href="https://opencv.org/">OpenCV</a>) has made development of object detection and classification models more accessible. Employing AI to assist in the identification and quantification of microscopic organisms would then enable for the processing of large amounts of images.</p>
 </td>
 </tr>
 </table>
 It is within the scope of the BysjöBot project to, in collaboration with taxonomy and AI experts, explore and evaluate the opportunities and limitations of AI-assisted identification and quantification of microorganisms. These tools will then be added to the workflow.
 <br>
 <br>
-<strong>This webbpage, with all its contents, is to be considered under contruction and not a final product.</strong>
+<strong>This webpage, with all its contents, is to be considered under contruction and not a final product.</strong>
 <br>
 <strong>Links and descriptions to related solutions and protocols will continously be updated and made available.</strong>
