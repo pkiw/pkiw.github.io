@@ -29,12 +29,12 @@ When the purpose is to analyse and quantify the contents within the sample it is
     <td width="50%"><img src="/assets/images/2.towerbase.png" width="100%">
     
 </td>
-	<td width="50%"><p style="font-size:22px">If the sample is analysed using an inverted microscope it can be useful to let the sample sediment, concentrating a certain volume of sample onto a certain area. This is done using a sediment chamber. This will sediment the contents of a column of water onto the bottom area of the petri dish. This area can then be documented (more information under Microscopy), and the whole samples concentration can then be extrapolated. Here is a 3D-printed sediment chamber solution ready to be used with 50 mm petri dish. The petridish surface area inside of the square can then be screened using the <strong>OpenFlexure microscopy</strong>.</p>
+	<td width="50%"><p style="font-size:22px">If the sample is analysed using an inverted microscope it can be useful to let the sample sediment, concentrating a certain volume of sample onto a certain area. This is done using a sediment chamber. This will sediment the contents of a column of water onto the bottom area of the petri dish. This area can then be documented (more information under Microscopy), and the whole sample's concentration can then be extrapolated. Here is a 3D-printed sediment chamber solution ready to be used with a 50 mm petri dish. The petri dish surface area inside of the square can then be screened using the <strong>OpenFlexure microscopy</strong>.</p>
 </td>
 </tr>
 
 </table>
-<strong>This webbpage, with all its contents, is to be considered under contruction and not a final product.</strong>
+<strong>This webpage, with all its contents, is to be considered under contruction and not a final product.</strong>
 <br>
 <strong>Links and descriptions to related solutions and protocols will continously be updated and made available.</strong>
 
