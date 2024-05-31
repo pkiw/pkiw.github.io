@@ -19,7 +19,7 @@ td, tr {
  <tr>
      <td><img src="/assets/images/2.2.jpeg" width="100%">
 </td>
-    <td><p style="font-size:22px">The OFM can be printed and mounted in ~24h (using one printer) at a cost of less than 2,000SEK (plastics, electronics and optics included). Since it is completely open source it is highly customisable making it possible to employ the microscope for one’s specific application. Here, the OFM makes it possible for us to automate the photography of our samples.  </p>
+    <td><p style="font-size:22px">The OFM can be printed and mounted in ~24h (using one printer) at a material cost of less than 3,000SEK (plastics, electronics and optics included). Since it is completely open source it is highly customisable making it possible to employ the microscope for many different applications. Here, the OFM makes it possible for us to simplify the photography of aquatic samples.  </p>
 </td>
 </tr>
 
