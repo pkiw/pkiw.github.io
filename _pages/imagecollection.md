@@ -1,5 +1,5 @@
 ---
-title: "Image analysis"
+title: "Image collection"
 layout: splash
 excerpt: AI-assisted identification and quantification 
 header:
