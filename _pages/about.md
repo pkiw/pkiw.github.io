@@ -15,5 +15,5 @@ My <a href="https://www.researchgate.net/profile/Per-Wilhelmsson">research backg
 Since my bachelor’s studies I have, on a hobby level, been exploring different solutions for automated microscopy working with microcontrollers, sensors and objective lenses. In 2020 I discovered the OpenFlexure project and have since had the great pleasure of playing around with the OpenFlexure microscope. I am convinced that initiatives such as the OpenFlexure project is the way of the future, elevating education and completely democratizing research and technology.
 <br>
 <br>
-I am currently working on sustainable water use at <a href="https://www.swedenwaterresearch.se/en/">Sweden Water Research</a>. My goal is to be able to work full-time with developing, promoting and implementing open-source hardware solutions in education, research as well as for citizen science projects.
+My goal is to be able to work full-time with developing, promoting and implementing open-source hardware solutions in education, research as well as for citizen science projects. If you are interested in buying a microscope, the parts to build one yourself or arranging a workshop contact <strong>info (at) pkiutv.se</strong>
 <br>

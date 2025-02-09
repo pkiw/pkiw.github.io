@@ -3,7 +3,8 @@ title: "contact"
 layout: splash
 excerpt:  Contact info etc
 header:
-  overlay_image: /assets/images/1.png
+  overlay_image: /assets/images/OFM_build.gif
+
 ---
 
 About sample collection, amount and frequency.

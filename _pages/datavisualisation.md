@@ -11,7 +11,7 @@ td, tr {
    border: none!important;
 }
 </style>
-<p style="font-size:22px">With an increased capacity to collect and analyse data it is of highest priority that the output of this workflow is compiled in a way that is accessible and understandable. The end product of this workflow will consist of inventories providing the amount of specific organism’s present in the analysed sample as well as measurements of organism size. This kind of basic data will be useful for researchers in understanding the dynamics of climate change and its effects on aquatic ecosystems.. </p>
+<p style="font-size:22px">With an increased capacity to collect and analyse data it is of highest priority that the output of this workflow is compiled in a way that is accessible and understandable. The end product of this workflow will consist of inventories providing the amount of specific organisms present in the analysed sample as well as measurements of organism size. This kind of basic data will be useful for researchers in understanding the dynamics of climate change and its effects on aquatic ecosystems. </p>
 <table width="100%">
 
 <tr>
@@ -21,6 +21,6 @@ td, tr {
 </td>
 </tr>
 </table>
-<strong>This webbpage, with all its contents, is to be considered under contruction and not a final product.</strong>
+<strong>This webpage, with all its contents, is to be considered under contruction and not a final product.</strong>
 <br>
 <strong>Links and descriptions to related solutions and protocols will continously be updated and made available.</strong>
