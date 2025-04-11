@@ -32,7 +32,12 @@ With user-friendly scalable open source tools, such as the OpenFlexure microscop
     <td width="50%"><img src="/assets/images/TL4.gif" width="100%">
 </td>
 </tr>
-
+ <tr>
+    <td width="50%"><img src="/assets/images/TL5.gif" width="100%">
+</td>
+    <td width="50%"><img src="/assets/images/TL6.gif" width="100%">
+</td>
+</tr>
 
 
 </table>
