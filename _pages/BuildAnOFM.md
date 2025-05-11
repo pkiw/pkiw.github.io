@@ -14,7 +14,7 @@ td, tr {
    border: none!important;
 }
 </style>
-<p style="font-size:22px">The OpenFlexure projects provides all the <a href=" https://openflexure.org/projects/microscope/build"> information</a> needed to build your own OFM. If you have any issues during assembly you can turn to the <a href="https://openflexure.discourse.group/"> OF-forum</a>. The forum can be used as a great resource when troubleshooting. A slow version of my build-demo is available for download via <a href="https://www.dropbox.com/scl/fi/xj0uitcidchfbmclvc1zt/Videoproj_final.mp4?rlkey=hicxf858efnoanr9dethv52lh&e=1&st=a7kc7svn&dl=0">DropBox</a> (1.1 GB 1h 14min video with audio).  </p>
+<p style="font-size:22px">The OpenFlexure projects provides all the <a href=" https://openflexure.org/projects/microscope/build"> information</a> needed to build your own OFM. If you have any issues during assembly you can turn to the <a href="https://openflexure.discourse.group/"> OF-forum</a>. The forum can be used as a great resource when troubleshooting. A slow version of my build-demo is available on <a href="https://www.youtube.com/watch?v=vwuFgYbz_MM">Youtube</a> (1h 14min).  </p>
 <table width="100%">
  <tr>
     <td width="43%"><img src="/assets/images/2.2.jpeg" width="100%">
