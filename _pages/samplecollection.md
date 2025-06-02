@@ -20,10 +20,10 @@ td, tr {
 </tr>
 </table>
 
-
 When the purpose is to analyse and quantify the contents within the sample it is important to halt the ongoing biological activity within the collected sample as soon as possible. Otherwise, organisms will continue to replicate and predate and the contents of the sample could differ greatly compared to how it was at the point of collection. This is done by adding a solution (Lugols) to the collected sample. The sample is then conserved (“frozen”) at the time point of collection. To not waste any Lugols it is necessary to not collect and “freeze” more sample volume than what is needed.
 
-
+<td><img src="/assets/images/OFM_fieldkit.jpg">
+</td>
 
 <strong>This webpage, with all its contents, is to be considered under contruction and not a final product.</strong>
 <br>
