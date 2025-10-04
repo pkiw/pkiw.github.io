@@ -25,9 +25,7 @@ When the purpose is to analyse and quantify the contents within the sample it is
 <td><img src="/assets/images/OFM_fieldkit.jpg">
 </td>
 
-<strong>This webpage, with all its contents, is to be considered under contruction and not a final product.</strong>
-<br>
-<strong>Links and descriptions to related solutions and protocols will continously be updated and made available.</strong>
+<strong>This webpage, with all its contents, is to be considered under construction and not a final product.</strong>
 
 
 

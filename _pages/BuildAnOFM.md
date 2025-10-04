@@ -33,6 +33,4 @@ I offer <strong>kits</strong> of the "Low-cost" microscope version at a price of
 You can send an email to <strong>info@pkiutv.se</strong> with the amount of kits you are interested in and delivery address, and you will recieve an invoice. I provide help organising OFM build workshops. Feel free to send an email to <strong>info@pkiutv.se</strong> if you are interested in help arranging a workshop or have any other related inquires.
 
 
-<strong>This webpage, with all its contents, is to be considered under contruction and not a final product.</strong>
-<br>
-<strong>Links and descriptions to related solutions and protocols will continously be updated and made available.</strong>
+<strong>This webpage, with all its contents, is to be considered under construction and not a final product.</strong>

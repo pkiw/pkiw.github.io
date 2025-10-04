@@ -21,6 +21,4 @@ td, tr {
 </td>
 </tr>
 </table>
-<strong>This webpage, with all its contents, is to be considered under contruction and not a final product.</strong>
-<br>
-<strong>Links and descriptions to related solutions and protocols will continously be updated and made available.</strong>
+<strong>This webpage, with all its contents, is to be considered under construction and not a final product.</strong>
