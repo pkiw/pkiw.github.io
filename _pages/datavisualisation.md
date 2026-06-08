@@ -17,7 +17,7 @@ td, tr {
 <tr>
      <td><img src="/assets/images/4.png" width=6000px>
 </td>
-    <td><p style="font-size:22px">This figure (unpublished results) further highlights the demand of such inventory data. Using the available national database of environmental data (https://miljodata.slu.se/MVM/) we can see that in Skåne, the southmost province of Sweden, the observed diversity of freshwater phytoplankton highly correlates with the number of samples analysed. The only way to get rid of this bias, and get a clear view of the situation, is to collect and process more samples. This is what the BysjöBot project and workflow aims to fulfill.</p>
+    <td><p style="font-size:22px">This figure (unpublished results) further highlights the demand of such inventory data. Using the available national database of environmental data (https://miljodata.slu.se/MVM/) we can see that in Skåne, the southmost province of Sweden, the observed diversity of freshwater phytoplankton highly correlates with the number of samples analysed. The only way to get rid of this bias, and get a clear view of the situation, is to collect and process more samples.</p>
 </td>
 </tr>
 </table>
